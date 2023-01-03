@@ -1,0 +1,12 @@
+.feature{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    padding: 10px;
+    flex-wrap: nowrap ;
+}
+
+.feature img{
+    width: 100px;
+    
+}
