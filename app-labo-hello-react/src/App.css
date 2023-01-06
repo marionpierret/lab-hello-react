@@ -32,7 +32,7 @@
 .Hello p{
   color: white;
   text-align: left;  
-  line-height: 1%;
+  line-height: 0px;
   }
   
 .Hello a{

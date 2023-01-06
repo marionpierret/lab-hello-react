@@ -8,5 +8,15 @@
 
 .feature img{
     width: 100px;
-    
+    margin-top: 0px
+}
+
+p{
+width: 80%;
+}
+
+h3{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: left;
 }
